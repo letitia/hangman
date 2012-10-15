@@ -11,7 +11,7 @@ guesses = []
 #
 #  getLetter()
 #
-#  wordProgress(guess)
+#  wordProgress(guesses)
 #
 #  wordIsCompleted(guesses)
 #
